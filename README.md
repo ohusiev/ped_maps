@@ -1,2 +1,2 @@
 # ped_maps
-## Visualisation of Projects Smart cities marketplace platform
+## Visualisation of data from Smart cities marketplace platform
